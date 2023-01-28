@@ -25,3 +25,15 @@ There are following steps that we need to perform in this phase:
 - Check the reltionship of null and non null values with the target variable
 
 ![image](https://user-images.githubusercontent.com/92606737/215234745-a3bd5a1a-1bea-4aab-a25a-d976b74eeddd.png)
+
+
+- Check the Numerical variables but putting condition dtype != 'O'
+
+![image](https://user-images.githubusercontent.com/92606737/215234918-32a0833f-73de-41ae-ba8c-61a5679e5852.png)
+
+- Check for Temporal Variables (That include date time or year data). In our case we have 'Yr' and 'Year' in columns for temporal data 
+  so we use this to find them.
+  
+![image](https://user-images.githubusercontent.com/92606737/215235013-5366d867-deed-4be6-a11c-9412dc899548.png)
+
+
