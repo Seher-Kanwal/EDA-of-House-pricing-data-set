@@ -55,6 +55,9 @@ There are following steps that we need to perform in this phase:
        Here in our case we just checked that these variables are not in discrete variables and in our temporal variables list.
        
        ![image](https://user-images.githubusercontent.com/92606737/215303757-bd31e0c7-490f-47eb-a68f-8b56d4f94c49.png)
+       
+       
+- Check relationship of both types of numerical variables with the target variables.       
 
 
 
