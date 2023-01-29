@@ -40,5 +40,18 @@ There are following steps that we need to perform in this phase:
 
 ![image](https://user-images.githubusercontent.com/92606737/215303171-6799f506-f25c-43a1-b78a-671c4df5c439.png)
 
+- Check for Numeriacal Variables.
+  Here we have two types of variables:
+       
+  - ## Discrete Variables
+       These are the variables that have values in the specfic range just like the rattings of movies in range 5.
+       For these variables to identify we need to specify the limit of unique values for columns. In below case we defined our range as 
+       25 unique values.
+       
+       ![image](https://user-images.githubusercontent.com/92606737/215303568-250b7d69-443d-49ab-9f85-fb3d9e1f8c60.png)
+       
+   - ## Continous variable      
+
+
 
 
