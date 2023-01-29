@@ -36,4 +36,9 @@ There are following steps that we need to perform in this phase:
   
 ![image](https://user-images.githubusercontent.com/92606737/215235013-5366d867-deed-4be6-a11c-9412dc899548.png)
 
+- Check the relationship between the temporal variables and the target variables
+
+![image](https://user-images.githubusercontent.com/92606737/215303171-6799f506-f25c-43a1-b78a-671c4df5c439.png)
+
+
 
