@@ -50,7 +50,12 @@ There are following steps that we need to perform in this phase:
        
        ![image](https://user-images.githubusercontent.com/92606737/215303568-250b7d69-443d-49ab-9f85-fb3d9e1f8c60.png)
        
-   - ## Continous variable      
+   - ## Continous variable  
+       This include all the variables that contains values above this threshold value.
+       Here in our case we just checked that these variables are not in discrete variables and in our temporal variables list.
+       
+       ![image](https://user-images.githubusercontent.com/92606737/215303757-bd31e0c7-490f-47eb-a68f-8b56d4f94c49.png)
+
 
 
 
