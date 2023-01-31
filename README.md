@@ -57,7 +57,10 @@ There are following steps that we need to perform in this phase:
        ![image](https://user-images.githubusercontent.com/92606737/215303757-bd31e0c7-490f-47eb-a68f-8b56d4f94c49.png)
        
        
-- Check relationship of both types of numerical variables with the target variables.       
+- Check relationship of both types of numerical variables with the target variables.   
+- Check for the outliers in our data for example we can use box plot.
+- Check for the catigorical data according to the different unique values in that column in order to identify how and which technique we will going to
+  use to deal with them. 
 
 
 
